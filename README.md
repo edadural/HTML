@@ -1,2 +1,2 @@
-# HTML 
-## HTML sayfanın [linki](http://edadural.eu5.org/)
+Temel HTML etiketleriyle yaptığım ilk sayfanın [linki](http://edadural.eu5.org/)
+ ![Lorem](/img/htmlSayfasi.gif)
